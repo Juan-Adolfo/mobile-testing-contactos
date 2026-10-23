@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Secretos locales (las credenciales de BrowserStack van en variables de entorno)
+.env
+*.env
+local.properties
